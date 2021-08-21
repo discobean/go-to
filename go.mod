@@ -1,5 +1,5 @@
-module github.com/xiam/to
+module github.com/discobean/go-to
 
-go 1.13
+go 1.14
 
-require github.com/stretchr/testify v1.4.0
+require github.com/stretchr/testify v1.7.0
